@@ -160,7 +160,7 @@ async def main():
     print(f"{BOLD}{GREEN}{'═' * 80}{RESET}\n")
     
     # What we do
-    print(f"     {BOLD}{YELLOW}Our SDK helps ML researchers and AI developers:{RESET}")
+    print(f"          {BOLD}{YELLOW}Our SDK helps ML researchers and AI developers:{RESET}")
     print(f"  • Run agentic evaluations    • Develop RL environments    • Train agents\n")
     
     # Main sections in compact format
