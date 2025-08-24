@@ -80,7 +80,7 @@ async def main():
             )
 
             messages.extend(context)
-            print(f"Messages: {messages}")
+            print(f"\nMessages: {messages}")
 
             # Phase 4: Run agent loop
             done = False
