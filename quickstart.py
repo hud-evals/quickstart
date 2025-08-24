@@ -43,8 +43,8 @@ async def main():
         task = Task(**sample_task)
 
         # Create MCP client with resolved config
+        print(f"🔍 MCP client config: {task.mcp_config}")
         client = MCPClient(mcp_config=task.mcp_config)
-        print(f"🔍 MCP client config: {client.config}")
 
         # Create agent
         print("🔧 Creating agent...")
