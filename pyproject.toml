@@ -11,7 +11,7 @@ dependencies = [
 
 
 [tool.hud.clone]
-style="[bright_white]"
+style="bright_white"
 message="""[bright_white]
           ████                                                               ████                   
     ██████████                                                        ███████████                   
