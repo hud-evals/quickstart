@@ -186,8 +186,8 @@ async def main():
     
     print(f"{CYAN}{'─' * 80}{RESET}\n")
     
-    # Special opportunities
-    print(f"{BOLD}{GREEN}💝 Special Opportunities{RESET}\n")
+    # Partnerships and Opportunities
+    print(f"{BOLD}{GREEN}💝 Partnerships and Opportunities{RESET}\n")
     
     print(f"  {BOLD}Students & Researchers:{RESET} {link('Apply for research grants and credits', 'https://docs.google.com/forms/d/e/1FAIpQLSf-Vq23Zw5DD05vNgNySAcLNI2U6db0SBZAvcwqCmlDjq10cw/viewform')}")
     print(f"  {BOLD}Labs & Enterprises:{RESET} {link('founders@hud.so', 'mailto:founders@hud.so')} or {link('Book a demo', 'https://cal.com/team/hud/demo')}\n")

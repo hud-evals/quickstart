@@ -55,8 +55,8 @@ We help AI engineers and ML researchers [bold]evaluate models[/bold] and [bold]r
   • [bold]README.md[/bold] — in-depth docs on environment definition and the loop
 
 [bold cyan]Next steps[/bold cyan]:
-  • Sign up: [link=https://app.hud.so]hud platform[/link]
-  • Create an API key: [link=https://app.hud.so/project/api-keys]project API keys[/link]
-  • Add [bold]HUD[/bold], [bold]OpenAI[/bold], and [bold]Claude[/bold] keys to your [bold].env[/bold]
+  • Sign up: [bold blue underline][link=https://app.hud.so]hud platform[/link][/bold blue underline] at [bold blue underline][link=https://app.hud.so]https://app.hud.so[/link][/bold blue underline]
+  • Create an API key: [bold blue underline][link=https://app.hud.so/project/api-keys]project API keys[/link][/bold blue underline]
+  • Add [bold]HUD[/bold], [bold]OpenAI[/bold], and [bold]Claude[/bold] API keys to your [bold].env[/bold]
   • Run: [bold yellow]cd quickstart && uv run quickstart.py[/bold yellow]
   """
