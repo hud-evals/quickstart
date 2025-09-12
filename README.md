@@ -27,4 +27,4 @@ This quickstart will allow you to:
    - HUD API key
    - OpenAI API key
    - Claude API key
-4. **Run the quickstart**: `uv run quickstart.py` 
+4. **Run the quickstart**: `cd quickstart && uv run quickstart.py` 

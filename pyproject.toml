@@ -40,14 +40,6 @@ message="""[bright_white]
 
 We help AI engineers and ML researchers [bold]evaluate models[/bold] and [bold]run agents in controlled environments[/bold].
 
-[bold cyan]Quickstart includes[/bold cyan]:
-  1. Pull a sample evaluation set
-  2. Initialize a remote eval environment on our hosted infra
-  3. Run an agent through a task
-  4. Evaluate results
-  5. Shut down the remote environment
-  6. Inspect trajectory & telemetry in our [bold]trace viewer[/bold] (steps, tool calls, scores, logs)
-
 [bold cyan]Repo contents[/bold cyan]:
   • [bold]pyproject.toml[/bold] — dependencies for the hud-python SDK
   • [bold]quickstart.py[/bold] — minimal walkthrough of the full agent loop
@@ -55,8 +47,8 @@ We help AI engineers and ML researchers [bold]evaluate models[/bold] and [bold]r
   • [bold]README.md[/bold] — in-depth docs on environment definition and the loop
 
 [bold cyan]Next steps[/bold cyan]:
-  • Sign up: [bold blue underline][link=https://app.hud.so]hud platform[/link][/bold blue underline] at [bold blue underline][link=https://app.hud.so]https://app.hud.so[/link][/bold blue underline]
-  • Create an API key: [bold blue underline][link=https://app.hud.so/project/api-keys]project API keys[/link][/bold blue underline]
-  • Add [bold]HUD[/bold], [bold]OpenAI[/bold], and [bold]Claude[/bold] API keys to your [bold].env[/bold]
-  • Run: [bold yellow]cd quickstart && uv run quickstart.py[/bold yellow]
+  1. Sign up: [bold blue underline][link=https://app.hud.so]hud platform[/link][/bold blue underline] at [bold blue underline][link=https://app.hud.so]https://app.hud.so[/link][/bold blue underline]
+  2. Create an API key: [bold blue underline][link=https://app.hud.so/project/api-keys]project API keys[/link][/bold blue underline]
+  3. Add [bold]HUD[/bold], [bold]OpenAI[/bold], and [bold]Claude[/bold] API keys to your [bold].env[/bold] file.
+  4. Run: [bold yellow]cd quickstart && uv run quickstart.py[/bold yellow]
   """
