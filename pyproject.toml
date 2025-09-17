@@ -5,7 +5,7 @@ description = "A simple quickstart to run evaluations on hud"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "hud-python[agent]==0.4.26",
+    "hud-python[agent]==0.4.27",
     "ipykernel>=6.29.5",
 ]
 
